@@ -1,0 +1,5 @@
+name: Word Changer
+main: me.kippy.changer.Core
+version: 1.0
+description: >
+             Change words from one word to another.
